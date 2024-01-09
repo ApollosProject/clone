@@ -5,7 +5,7 @@
 Install the package in editable mode
 
 ```
-pip install -e .
+pip install -e .[dev]
 ```
 
 ## Deploy
